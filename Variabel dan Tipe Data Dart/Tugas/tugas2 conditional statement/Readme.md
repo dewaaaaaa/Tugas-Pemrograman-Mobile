@@ -1,8 +1,7 @@
 # TUGAS PRAKTEK - VARIABEL DAN CONDITIONAL STATEMENT
 
-- **Nama :** Dewa Maulana
+- **Nama :** Dewa Maulana  
 - **NPM :** 07352311085
-
 ---
 
 ## 📖 Penjelasan Program
